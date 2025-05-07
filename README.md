@@ -15,7 +15,7 @@ Results Published: (TBD)
 
 ## Registration
 
-The registration of participants is mandatory and must be made online using the following form: [link] (https://forms.gle/S5rVvgw7WwfKNr7k8).
+The registration of participants is mandatory and must be made online using the following form: [link](https://forms.gle/S5rVvgw7WwfKNr7k8).
 
 Note: If you are unable to complete this form, please send it by email to: jorga@isep; jan@isep.ipp.pt; flz@isep.ipp.pt; bmc@isep.ipp.pt; ffeso@isep.ipp.pt; zav@isep.ipp.pt
 
