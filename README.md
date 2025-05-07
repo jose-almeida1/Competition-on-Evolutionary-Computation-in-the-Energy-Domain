@@ -39,6 +39,10 @@ We have been implementing some variants in the benchmark problems but have alway
 ## Rules
 
 - Participants will propose and implement metaheuristic algorithms (e.g., evolutionary algorithms, swarm intelligence, estimation of distribution algorithm, etc.) to solve the proposed track problem in the energy domain.
-- The organizers provide a framework (Download), implemented in MATALAB© 2021a 64 bits, in which participants can easily test their algorithms (we also provide a hybrid-adaptive differential evolution algorithm implementation as an example). The guidelines (Download) include the necessary information to understand the problem, how the solutions are represented, and how the fitness function is evaluated. Also, we provide information on mathematical formulation regarding the objective function value and problem constraints. Those elements are common for all participants.
+- The organizers provide a framework, implemented in MATALAB© 2021a 64 bits, in which participants can easily test their algorithms (we also provide a hybrid-adaptive differential evolution algorithm implementation as an example). The guidelines include the necessary information to understand the problem, how the solutions are represented, and how the fitness function is evaluated. Also, we provide information on mathematical formulation regarding the objective function value and problem constraints. Those elements are common for all participants.
 - A maximum number of “function evaluations” is considered for all algorithms. However, this year, the algorithms’ convergence properties, measured as the number of “functions evaluations”, are part of the evaluation criteria in the competition. Thus, participants should strive to obtain the lowest number of “function evaluations” as well.
 In addition, 20 independent trials should be performed in the framework by each participant.
+
+## How to submit an entry
+
+The winner will be the participant with the minimum ranking index in the proposed track, which is calculated as the sum of the normalized values of the average fitness value and the average number of function evaluations for the 20 trials. Possible outliers in the normalization will be handled by the winsorizing of the results.
