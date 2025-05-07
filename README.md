@@ -1,4 +1,5 @@
-# Competition-on-Evolutionary-Computation-in-the-Energy-Domain
+# 2025 Competition on Evolutionary Computation in the Energy Domain: Summer Finals of the Risk-based Energy Scheduling
+
 ![CFPs2025-13](https://github.com/user-attachments/assets/178e6794-92d9-4719-8437-82747f8e37e8)
 
 IEEE CEC 2025 & GECCO 2025 (Joint competition)
